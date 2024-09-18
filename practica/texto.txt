@@ -2,3 +2,11 @@ gestor de contraseñas
 reservar pistas
 juegos
 aplicacion de mensajería
+notas para mí mismo tipo diario
+para registrar datos(médicos, consumo de enrgía,árboles,pokemones): te va pidiendo cosas directamente por python
+QUE HAYA USUARIOS Y QUE HAYA DATOS(CADA USUARIO SUS PROPIOS DATOS: va a  haber que cifrarlos y autenticarlos)
+tkinter:para hacerlo bonito
+cifrado/autenticado es el mejor algoritmo y justificarlo bien en la memoria
+ninguna contraseña en el código
+cada vez que lanzamos el sistema usar una contraseña que hay que memorizar O 
+cryptography.io
