@@ -1,0 +1,4 @@
+gestor de contraseñas
+reservar pistas
+juegos
+aplicacion de mensajería
